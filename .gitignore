@@ -3,6 +3,8 @@
 *.opendb
 *.db
 .vs/
+bin/
+bin-int/
 
 # Compiled Object files
 *.slo
