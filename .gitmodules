@@ -1,0 +1,3 @@
+[submodule "Lmq/vendor/spdlog"]
+	path = Lmq/vendor/spdlog
+	url = https://github.com/gabime/spdlog

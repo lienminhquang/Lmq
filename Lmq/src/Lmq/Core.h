@@ -8,5 +8,5 @@
 	#endif // 
 #else
 	#error Lmq only support Windows!
-#endif // HZ_PLATFORM_WINDOWS
+#endif // LMQ_PLATFORM_WINDOWS
 
